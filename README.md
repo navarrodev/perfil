@@ -8,9 +8,20 @@
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"/>
  
- Bom porque no final é isso que nós fazemos.
+ # Navarro johnny
+ 
+ Afinal é isso que nós fazemos.
 
- Tralhas que uso:
+
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ 
+ ### Tralhas que uso:
  
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
  ![Python](https://img.shields.io/badge/-Python-black?logoColor=green&style=flat-square&logo=Python)
@@ -21,7 +32,7 @@
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
- ![Github]()
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
  
  
  <!--![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)-->
@@ -34,12 +45,23 @@
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  ![Node.JS](https://img.shields.io/badge/-Node.Js-black?logoColor=green&style=flat-square&logo=Node.Js)
  
- Estou aprendendo:
+ Tralhas que estudo:
  
  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
- ![GPC](https://img.shields.io/badge/GPC-black?style=flat-square&logo=gpc)
- ![AWS](https://github.com/navarrodev/perfil/blob/main/assets/images/pngwing.com.png?raw=true)
+ ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square)
+ ![GCP](https://img.shields.io/badge/-GCP-blue?style=flat-square)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logoColor=green&style=flat-square&logo=JavaScript)
+ ![Django](https://img.shields.io/badge/-Django-black?logoColor=green&style=flat-square&logo=Django)
+ ![HTML](https://img.shields.io/badge/-html-informational)
+ ![CSS](https://img.shields.io/badge/-CSS-black?logoColor=green&style=flat-square&logo=CSS)
  
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/DKyjRV7y5AcOswAlBr/giphy.gif"/>
+
+
+  Bom sou Cientista de Dados, tenho alguma experiência com Linux e Desenvolvimento Python coisa de uns 15 anos... atualmente estou trabalhando em um projeto pessoal, não posso falar muito sobre isso agora... Mas basicamente desde 2007 ja trabalhei com SysAdmin, Pentest, Desenvolvimento C e C#, tambén Android com Python e Kivy. Pessoalmente falando sou um cara simples gosto de rock, de games, acredito que programar é uma novo marco da humanidade assim como foi habilidade de ler e escrever, ferramenta de fazer ferramentas... resolvi disponibilizar tudo o quanto puder aqui, desde projetos, exemplos de códigos, tutoriais etc... seja bem vindo fica a vontade... fica, quer um café?
+    
+ <b> :chart_with_upwards_trend: Estatísticas</b>:
 
  Bem o modelo em sí não foi desenvolvido por mim, porém eu fiz algumas alterações, deixei abaixo o tutorial de como vc pode instalar.
 
