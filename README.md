@@ -10,16 +10,10 @@
  
  # Navarro johnny
  
- Afinal é isso que nós fazemos.
+ > *Dev, Hacking, café e outras tralhas!*
 
-
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
+ Bom sou Cientista de Dados, tenho alguma experiência com Linux e Desenvolvimento Python coisa de uns 15 anos... atualmente estou trabalhando em um projeto pessoal, não posso falar muito sobre isso agora... Mas basicamente desde 2007 ja trabalhei com SysAdmin, Pentest, Desenvolvimento C e C#, tambén Android com Python e Kivy. Pessoalmente falando sou um cara simples gosto de rock, de games. <br> <br> Acredito que programar é uma novo marco da humanidade assim como foi habilidade de ler e escrever, ferramenta de fazer ferramentas... resolvi disponibilizar tudo o quanto puder aqui, desde projetos, exemplos de códigos, tutoriais etc... seja bem vindo fica a vontade... fica, quer um café?
+<br>
  
  ### Tralhas que uso:
  
@@ -37,7 +31,7 @@
  
  <!--![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)-->
  
- ⚙️ Tenho conhecimento Intermediário:
+ ### Tenho conhecimento Intermediário:
  
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=Mongodb)
@@ -45,7 +39,7 @@
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  ![Node.JS](https://img.shields.io/badge/-Node.Js-black?logoColor=green&style=flat-square&logo=Node.Js)
  
- Tralhas que estudo:
+ ### Tralhas que estudo:
  
  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
  ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square)
@@ -59,9 +53,14 @@
 <img align="center" alt="GIF" src="https://media.giphy.com/media/DKyjRV7y5AcOswAlBr/giphy.gif"/>
 
 
-  Bom sou Cientista de Dados, tenho alguma experiência com Linux e Desenvolvimento Python coisa de uns 15 anos... atualmente estou trabalhando em um projeto pessoal, não posso falar muito sobre isso agora... Mas basicamente desde 2007 ja trabalhei com SysAdmin, Pentest, Desenvolvimento C e C#, tambén Android com Python e Kivy. Pessoalmente falando sou um cara simples gosto de rock, de games, acredito que programar é uma novo marco da humanidade assim como foi habilidade de ler e escrever, ferramenta de fazer ferramentas... resolvi disponibilizar tudo o quanto puder aqui, desde projetos, exemplos de códigos, tutoriais etc... seja bem vindo fica a vontade... fica, quer um café?
+  
     
  <b> :chart_with_upwards_trend: Estatísticas</b>:
+ <br>
+ <br>
+ ![Navarro](https://github-readme-stats.vercel.app/api?username=navarrodev&show_icons=true&theme=merko)
+
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
  Bem o modelo em sí não foi desenvolvido por mim, porém eu fiz algumas alterações, deixei abaixo o tutorial de como vc pode instalar.
 
@@ -71,7 +70,6 @@ Instalação
 * Delete o branch padrão `gh-pages` branch
 * Crie novamente o branch `gh-pages` branch
 * Em configurações e procure Github Pages como fonte principal.
-* Go to settings and set Github Pages source as master.
 * Seu novo site deve ser algo como -->> `https://username.github.io/online-cv/`
 
 Neste Diretório vc pode modificar as configurações editando o arquivo .yml `_data/data.yml`
