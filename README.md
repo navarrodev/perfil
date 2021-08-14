@@ -71,7 +71,7 @@ Instalação
 * Delete o branch padrão `gh-pages` branch
 * Crie novamente o branch `gh-pages` branch
 * Em configurações e procure Github Pages como fonte principal.
-* Seu novo site deve ser algo como -->> `https://username.github.io/online-cv/` -->
+* Seu novo site deve ser algo como  `https://username.github.io/online-cv/` -->
 <!--
 Neste Diretório vc pode modificar as configurações editando o arquivo .yml `_data/data.yml`
 
