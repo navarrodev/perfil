@@ -21,7 +21,7 @@
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
- ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+ ![Github]()
  
  
  <!--![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)-->
@@ -38,7 +38,7 @@
  
  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
  ![GPC](https://img.shields.io/badge/GPC-black?style=flat-square&logo=gpc)
- ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws)
+ ![AWS](https://github.com/navarrodev/perfil/blob/main/assets/images/pngwing.com.png?raw=true)
  
 
  Bem o modelo em sí não foi desenvolvido por mim, porém eu fiz algumas alterações, deixei abaixo o tutorial de como vc pode instalar.
