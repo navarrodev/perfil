@@ -18,7 +18,7 @@ sidebar:
     website:  #do not add http://
     linkedin: navarrotech
     #xing: alandoe
-    github: johnnynavarro
+    github: navarrodev
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
@@ -88,7 +88,10 @@ experiences:
           - Android, Python, Kivy
           - Pandas, Matplot, numpy
           - Buildozer, Archlinux.
-    - role: Senior Software Engineer
+   
+   
+   
+   - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
       details: |
@@ -99,7 +102,10 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
+   
+   
+   
+   - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
       details: |
@@ -151,7 +157,7 @@ skills:
       - name: SLQ & NoSQL
         level: 90%
 
-      - name: Node.js & TypeScript
+      - name: Node.js & JavaScript
         level: 75%
 
       - name: HTML & CSS
