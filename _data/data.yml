@@ -1,12 +1,10 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
 sidebar: 
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-    
-  
+      
     # Profile information
     name: Johnny Navarro
     tagline: Full Stack Developer
@@ -88,9 +86,7 @@ experiences:
           - Android, Python, Kivy
           - Pandas, Matplot, numpy
           - Buildozer, Archlinux.
-   
-   
-   
+     
    - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -102,9 +98,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-   
-   
-   
+     
    - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
@@ -116,10 +110,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-          
-          
-          
-          
+               
 projects:
     title: Projects
     intro: >
@@ -146,8 +137,6 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
 
 skills:
     title: Skills
