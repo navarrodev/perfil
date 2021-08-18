@@ -116,6 +116,10 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
+          
+          
+          
+          
 projects:
     title: Projects
     intro: >
@@ -142,6 +146,7 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 
 
 skills:
