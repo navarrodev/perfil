@@ -79,10 +79,10 @@ experiences:
         coleta, análise e visualização de dados utilizando bibliotecas como
         pandas, numpy, requests, matplot.
         Objetivo era coletar dados de intenção de voto para auxílio na tomada
-        de decição das capanhas elitorais para prefeitos de 2020 as pesquisas
+        de decisão das campanhas elitorais para prefeito de 2020 as pesquisas
         foram realizadas em 17 municípios do estado do Maranhão a aplicação foi
         desenvolvida em Python e Kivy, compilado com Buildozer no ArchLinux
-        somente uma parte do código encontrasse diposnível no meu github por questões
+        somente uma parte do código encontra-se diposnível no meu github por questões
         comerciais e segredos empresariais, se assim desejar me envie um e-mail
         terei prazer em eviar o código e um pequeno tutorial para deploy da aplicação.
           - Android, Python, Kivy
