@@ -1,0 +1,167 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+    publications: False 
+
+    # Profile information
+    name: Johnny Navarro
+    tagline: Full Stack Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: johnnyminemonic@gmail.com
+    #phone: 012 345 6789
+    website: navarrodev.github.io/perfil/ #do not add http://
+    linkedin: navarrotech
+    #xing: alandoe
+    github: navarrodev
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: 
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: #http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      - idiom: Português 
+        level: Nativo
+
+      - idiom: English
+        level: Intermediary
+
+      #- idiom: Spanish
+      #  level: Professional
+
+    interests:
+      - item: Rapel, Surf, Skate, Motos
+        link:
+
+      - item: Filosfia, Direito, Ciências Sociais
+        link:
+
+      - item: Porgramação, DataScience, Hacking
+        link:
+
+career-profile:
+    title: Perfil
+    summary: |
+      Com mais de 15 anos de experiência com Linux e desenvolvimento
+      tenho sólidos conhecimentos tanto no BackEnd(desenvimento de software)
+      quanto no deploy de servidores e redes incluindo a nuvem. Detalhista,
+      curioso e competitivo,sempre buscando qualidade nos resultados.
+      Antes de qualquer coisa um execelente solucionador de problemas.
+
+education:
+   - degree: Ciência de Dados
+     university: Faculdade Cruzeiro do Sul
+     time: 2020 - 2022
+     details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+              
+experiences:
+    - role: Desenvolvedor Python
+      time: 
+      company: São Luis
+      details: |
+        Desenvolvimento de uma aplicação android, para pesquisa de opnião
+        coleta, análise e visualização de dados utilizando bibliotecas como
+        pandas, numpy, requests, matplot.
+        Objetivo era coletar dados de intenção de voto para auxílio na tomada
+        de decição das capanhas elitorais para prefeitos de 2020 as pesquisas
+        foram realizadas em 17 municípios do estado do Maranhão a aplicação foi
+        desenvolvida em Python e Kivy, compilado com Buildozer no ArchLinux
+        somente uma parte do código encontrasse diposnível no meu github por questões
+        comerciais e segredos empresariais, se assim desejar me envie um e-mail
+        terei prazer em eviar o código e um pequeno tutorial para deploy da aplicação.
+          - Android, Python, Kivy
+          - Pandas, Matplot, numpy
+          - Buildozer, Archlinux.
+    - role: Tech Lab. Metareciclagem
+      time: 
+      company: Projeto Casa Brasil, São luis
+      details: |
+        Responsável pela manutenção do telecentro rodando distribuição 
+        linux Sacix com servidor LTSP, também por desenvolver alguma
+        tecnologia de utilidade pública baseada em software livre 
+        sendo esta uma customização da distribuição Linux Slackware com
+        servidor de rede DHCP, Firewall, QOS, Apache, autenticação
+        de via MacAdress utilizando apenas 70 mb de memória RAM e ocupando
+        350 MB em disco rigído.
+          - Shell Script.
+          - SysAdmin.
+    - role: Instrutor Linux, Banco de Dados
+      time: 
+      company: Projeto Formação, Ma
+      details: |
+        Ministrar aulas junto a iniciativa municipal CEMP (Centro Ensino Médio
+        Profissionalizante), para todas as turmas do ensino médio nas cadeiras:
+          
+
+          - Sistemas Operacionais
+          - Bancos de Dados
+          - Lógica de Programação.
+          - Linux, MySql
+          - ShellScript e Python
+projects:
+    title: Projetos
+    intro: >
+      Aqui listei alguns projetos pessoais onde tive oportunidade de demonstrar
+      minhas habilidades.
+      
+    assignments:
+      - title: Scrapy/Crawler
+        link: "#hook"
+        tagline: "Código escrito em Python para um Crawler profundo e escalável"
+
+      - title: Site Responsivo
+        link: "#"
+        tagline: "Um projeto simples HTML e CSS responsivo."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+
+skills:
+    title: Skills
+
+    toolset:
+      - name: Linux & Windows
+        level: 98%
+
+      - name: Python & Django
+        level: 90%
+
+      - name: SLQ & NoSQL
+        level: 90%
+
+      - name: Node.js & JavaScript
+        level: 75%
+
+      - name: HTML & CSS
+        level: 70%
+
+      - name: ShellScript
+        level: 70%
+
+footer: >
