@@ -55,7 +55,7 @@ career-profile:
       tenho sólidos conhecimentos tanto no BackEnd(desenvimento de software)
       quanto no deploy de servidores e redes incluindo a nuvem. Detalhista,
       curioso e competitivo,sempre buscando qualidade nos resultados.
-      Antes de qualquer coisa um execelente solucionador de problemas.
+      Antes de qualquer coisa um excelente solucionador de problemas.
 
 education:
    - degree: Ciência de Dados
@@ -75,16 +75,16 @@ experiences:
       time: 
       company: São Luis
       details: |
-        Desenvolvimento de uma aplicação android, para pesquisa de opnião
+       Desenvolvimento de uma aplicação android, para pesquisa de opinião
         coleta, análise e visualização de dados utilizando bibliotecas como
         pandas, numpy, requests, matplot.
         Objetivo era coletar dados de intenção de voto para auxílio na tomada
-        de decisão das campanhas elitorais para prefeito de 2020 as pesquisas
+        de decisão das campanhas eleitorais para prefeitos de 2020 as pesquisas
         foram realizadas em 17 municípios do estado do Maranhão a aplicação foi
         desenvolvida em Python e Kivy, compilado com Buildozer no ArchLinux
-        somente uma parte do código encontra-se diposnível no meu github por questões
+        somente uma parte do código encontrasse disponível no meu github por questões
         comerciais e segredos empresariais, se assim desejar me envie um e-mail
-        terei prazer em eviar o código e um pequeno tutorial para deploy da aplicação.
+        terei prazer em enviar o código e um pequeno tutorial para deploy da aplicação.
           - Android, Python, Kivy
           - Pandas, Matplot, numpy
           - Buildozer, Archlinux.
@@ -98,7 +98,7 @@ experiences:
         sendo esta uma customização da distribuição Linux Slackware com
         servidor de rede DHCP, Firewall, QOS, Apache, autenticação
         de via MacAdress utilizando apenas 70 mb de memória RAM e ocupando
-        350 MB em disco rigído.
+        350 MB em disco rígido.
           - Shell Script.
           - SysAdmin.
     - role: Instrutor Linux, Banco de Dados
@@ -127,19 +127,9 @@ projects:
 
       - title: Site Responsivo
         link: "#"
-        tagline: "Um projeto simples HTML e CSS responsivo."
+        tagline: "Um projeto simples HTML, JavaScript e CSS responsivo."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
 
 
 skills:
