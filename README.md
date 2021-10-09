@@ -7,6 +7,7 @@
 <!--[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/karinne)](https://www.kaggle.com/karinne)-->
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"/>
+<iframe src='//gifs.com/embed/meusite-EqP7xv' frameborder='0' scrolling='no' width='1366px' height='768px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
  
  # Johnny Navarro
  
