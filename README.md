@@ -13,7 +13,7 @@
  
  > *Dev, Hacking, café e outras tralhas!*
 
- Bom sou Cientista de Dados, tenho alguma experiência com Linux e Desenvolvimento Python coisa de uns 15 anos... atualmente estou trabalhando em um projeto pessoal, não posso falar muito sobre isso agora... Mas basicamente desde 2007 ja trabalhei com SysAdmin, Pentest, Desenvolvimento C e C#, tambén Android com Python e Kivy. Pessoalmente falando sou um cara simples gosto de rock, de games. <br> <br> Acredito que programar é uma novo marco da humanidade assim como foi habilidade de ler e escrever, ferramenta de fazer ferramentas... resolvi disponibilizar tudo o quanto puder aqui, desde projetos, exemplos de códigos, tutoriais etc... seja bem vindo fica a vontade... fica, quer um café?
+ Bom sou Cientista de Dados, tenho alguma experiência com Linux e Desenvolvimento Python coisa de uns 15 anos... atualmente estou trabalhando em um projeto pessoal, não posso falar muito sobre isso agora... Mas basicamente desde 2007 ja trabalhei com SysAdmin, Pentest, Desenvolvimento em Android com Python e Kivy. Pessoalmente falando sou um cara simples gosto de rock, de games. <br> <br> Acredito que programar é uma novo marco da humanidade assim como foi habilidade de ler e escrever, ferramenta de fazer ferramentas... resolvi disponibilizar tudo o quanto puder aqui, desde projetos, exemplos de códigos, tutoriais etc... seja bem vindo fica a vontade... fica, quer um café?
 <br>
  
  ### Tralhas que uso:
